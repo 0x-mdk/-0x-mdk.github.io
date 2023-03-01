@@ -5,11 +5,11 @@ theme="PaperMod"
 
 [params.profileMode]
 enabled = true
-title = "<Title>"
+title = "Eddak Mohammed"
 subtitle = "CyberSecurity Student @ ULB"
 imageUrl = "images/pfp.jpeg"
 imageTitle = "Logo"
-imageWidth = 200
+imageWidth = 230
 imageHeight = 210
 
   [[params.profileMode.buttons]]
