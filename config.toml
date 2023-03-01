@@ -1,6 +1,6 @@
-baseURL = 'https://0x-mdk.github.io/'
+baseURL = 'https://meddak-be.github.io/'
 languageCode = 'en-us'
-title = '0x-MDK'
+title = 'meddak'
 theme="PaperMod"
 
 [params.profileMode]
@@ -9,8 +9,8 @@ title = "<Title>"
 subtitle = "CyberSecurity Student @ ULB"
 imageUrl = "images/pfp.jpeg"
 imageTitle = "Logo"
-imageWidth = 140
-imageHeight = 150
+imageWidth = 200
+imageHeight = 210
 
   [[params.profileMode.buttons]]
   name = "Github"
@@ -18,6 +18,6 @@ imageHeight = 150
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/0x-mdk"
+url = "https://github.com/meddak-be"
 
 
