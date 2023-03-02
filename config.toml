@@ -9,8 +9,8 @@ title = "Eddak Mohammed"
 subtitle = "CyberSecurity Student @ ULB"
 imageUrl = "images/pfp.jpeg"
 imageTitle = "Logo"
-imageWidth = 230
-imageHeight = 210
+imageWidth = 250
+imageHeight = 250
 
   [[params.profileMode.buttons]]
   name = "Github"
