@@ -12,12 +12,12 @@ imageTitle = "Logo"
 imageWidth = 250
 imageHeight = 250
 
-  [[params.profileMode.buttons]]
-  name = "Github"
-  url = "https://github.com/"
 
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/meddak-be"
 
-
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
