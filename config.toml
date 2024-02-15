@@ -1,11 +1,11 @@
-baseURL = 'https://meddak-be.github.io/'
+baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
 title = 'meddak'
 theme="PaperMod"
 
 [params.profileMode]
 enabled = true
-title = "Eddak Mohammed"
+title = "Eddak M. Said"
 subtitle = "CyberSecurity Student @ ULB"
 imageUrl = "images/pfp.jpeg"
 imageTitle = "Logo"
@@ -17,7 +17,17 @@ imageHeight = 250
 name = "github"
 url = "https://github.com/meddak-be"
 
-[[menu.main]]
-  identifier = "posts"
-  name = "Posts"
-  url = "/posts/"
+[[params.socialIcons]]
+name = "linkedin-in"
+url = "https://www.linkedin.com/in/mohammed-eddak-2518aa23b/"
+
+[[params.socialIcons]]
+name = "medium-m"
+url = "https://medium.com/@MDK_BE"
+
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
