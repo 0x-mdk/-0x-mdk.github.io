@@ -18,11 +18,11 @@ name = "github"
 url = "https://github.com/meddak-be"
 
 [[params.socialIcons]]
-name = "linkedin-in"
+name = "linkedin"
 url = "https://www.linkedin.com/in/mohammed-eddak-2518aa23b/"
 
 [[params.socialIcons]]
-name = "medium-m"
+name = "medium"
 url = "https://medium.com/@MDK_BE"
 
 
