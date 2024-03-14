@@ -1,3 +1,7 @@
+---
+title: "About Me"
+---
+
 # About Me
 
 Hi, I'm M. Said Eddak, a passionate and meticulous cybersecurity enthusiast. My goal is to help creating a more secure world !
@@ -16,7 +20,7 @@ The main ones are TryHackMe, HackTheBox, Cryptohack, ... as well as different gi
 
 I also learn a lot of new things by participating to online CTFs.
 
-![thm rank](../images/image.png)
+![thm rank](image.png)
 
 ## Certifications
 Following are the (free) certifications that I have :
