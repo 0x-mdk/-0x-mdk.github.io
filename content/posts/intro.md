@@ -1,18 +1,27 @@
----
-title: "Introduction"
-date: 2023-06-21
-author: "meddak"
----
-
 # About Me
 
-Hi, I'm meddak-be! I am passionate about technology and enjoy building cool projects.
+Hi, I'm M. Said Eddak, a passionate and meticulous cybersecurity enthusiast. My goal is to help creating a more secure world !
 
-## Ongoing Learning
+## Main Cyber Security Interests 
+My main interests gravitate around the Blue Teaming field :
+- SoC Operations
+- Cryptography
+- Forensics
+- Reverse Engineering
+- Networks
 
-- PenTesting
-- Blue Teaming
-- Secure Development
+## Building my knowledge
+I leverage different online plateforms to extend my knowledge of the above mentionned fields.
+The main ones are TryHackMe, HackTheBox, Cryptohack, ... as well as different github/forums in order to build a solid fundation.
+
+I also learn a lot of new things by participating to online CTFs.
+
+![alt text](images/image.png)
+
+## Certifications
+Following are the (free) certifications that I have :
+![alt text](images/THM-cert-soc.png)
+![alt text](images/security-blue-team-cert-1.png)
 
 <!-- ## Projects
 
