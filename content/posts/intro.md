@@ -16,12 +16,12 @@ The main ones are TryHackMe, HackTheBox, Cryptohack, ... as well as different gi
 
 I also learn a lot of new things by participating to online CTFs.
 
-![alt text](images/image.png)
+![thm rank](../images/image.png)
 
 ## Certifications
 Following are the (free) certifications that I have :
-![alt text](images/THM-cert-soc.png)
-![alt text](images/security-blue-team-cert-1.png)
+![thm cert 1](../images/THM-cert-soc.png)
+![sbt cert 1](../images/security-blue-team-cert-1.png)
 
 <!-- ## Projects
 
