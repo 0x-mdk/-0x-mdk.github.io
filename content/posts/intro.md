@@ -20,7 +20,7 @@ The main ones are TryHackMe, HackTheBox, Cryptohack, ... as well as different gi
 
 I also learn a lot of new things by participating to online CTFs.
 
-![thm rank](image.png)
+![thm rank](./image.png)
 
 ## Certifications
 Following are the (free) certifications that I have :
