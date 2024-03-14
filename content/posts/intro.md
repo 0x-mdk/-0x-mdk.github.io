@@ -2,8 +2,6 @@
 title: "About Me"
 ---
 
-# About Me
-
 Hi, I'm M. Said Eddak, a passionate and meticulous cybersecurity enthusiast. My goal is to help creating a more secure world !
 
 ## Main Cyber Security Interests 
@@ -20,12 +18,12 @@ The main ones are TryHackMe, HackTheBox, Cryptohack, ... as well as different gi
 
 I also learn a lot of new things by participating to online CTFs.
 
-![thm rank](./image.png)
+<!-- ![thm rank](./image.png)
 
 ## Certifications
 Following are the (free) certifications that I have :
 ![thm cert 1](/post/images/THM-cert-soc.png)
-![sbt cert 1](/post/images/security-blue-team-cert-1.png)
+![sbt cert 1](/post/images/security-blue-team-cert-1.png) -->
 
 <!-- ## Projects
 
