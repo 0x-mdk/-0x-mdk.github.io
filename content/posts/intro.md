@@ -24,8 +24,8 @@ I also learn a lot of new things by participating to online CTFs.
 
 ## Certifications
 Following are the (free) certifications that I have :
-![thm cert 1](../images/THM-cert-soc.png)
-![sbt cert 1](../images/security-blue-team-cert-1.png)
+![thm cert 1](/post/images/THM-cert-soc.png)
+![sbt cert 1](/post/images/security-blue-team-cert-1.png)
 
 <!-- ## Projects
 
